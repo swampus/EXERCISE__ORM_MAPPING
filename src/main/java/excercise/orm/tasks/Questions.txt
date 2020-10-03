@@ -1,0 +1,31 @@
+1. What is ORM ?
+2. What is difference between JPA and Hibernate ?
+3. What is difference between Entity and Table ?
+4. What is lazy loading pattern ?
+5. What is proxy ?
+6. Can entity be final ? What will happened ?
+7. Do Entity class should implement Serializable ?
+8. What is entity manager ?
+9. Can hibernate be used for any database ?
+10. How I can see SQL hibernate is generating ?
+11. Can we use auto-create database hibernate option in production ? in development ?
+12. What other ORM frameworks you know ?
+13. What is hibernate.naming.physical-strategy ?
+14. Do Entity should have @ID ?
+15. Can we create composite key in Hibernate ?
+16. Why we need hibernate ?
+17. What is SQL injection ? Can we have it in hibernate ?
+18. How we create OneToMany ManyToMany and OneToOne relation in Hibernate ?
+19. What is orphanRemoval ?
+20. What is Fetch Type ? When it can be used ? What types exists ? What difference ?
+21. Can we map two table at one class ? One class represent like several tables ?
+22. How we can rewrite default entity behaviors on delete / update ?
+23. What is namedQuery ?
+24. What is hibernate Criteria ? Give an example.
+25. How we can create transaction in hibernate ?
+26. What is hibernate session ?
+27. What is detach ?
+28. What is difference between save and persists ?
+29. What is difference between get and load ?
+30. What is DAO ?
+
